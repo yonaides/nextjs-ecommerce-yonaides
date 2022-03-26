@@ -8,9 +8,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@types/bootstrap": "^4.5.0",
+    "bcrypt": "^5.0.1",
+    "bootstrap": "^4.5.3",
+    "cloudinary": "^1.27.1",
+    "js-cookie": "^3.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.1.8",
+    "multer": "^1.4.3",
     "next": "12.0.9",
+    "process-env": "^2.0.2",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "streamifier": "^0.1.1"
   },
   "devDependencies": {
     "eslint": "8.7.0",

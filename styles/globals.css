@@ -11,6 +11,27 @@ a {
   text-decoration: none;
 }
 
-* {
+* { 
   box-sizing: border-box;
 }
+
+img{
+  object-fit: cover;
+  object-position: 0 20%;
+}
+
+/*----- loading   */
+
+@import url("./loading.css");
+
+/*----- products   */
+
+@import url("./products.css");
+
+/*----- profile ------*/
+
+@import url("./profile.css");
+
+/*----- produc manager ------*/
+
+@import url("./products_manager.css");
